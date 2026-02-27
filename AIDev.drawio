@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="21X4EBatQ-iozyOZhHY6-49" parent="1" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" value="---&lt;div&gt;-------&lt;/div&gt;&lt;div&gt;-------&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="50" x="970" y="760" as="geometry" />
+          <mxGeometry height="60" width="50" x="970" y="767" as="geometry" />
         </mxCell>
         <mxCell id="21X4EBatQ-iozyOZhHY6-50" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="1110" y="720" as="geometry" />
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="21X4EBatQ-iozyOZhHY6-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;+&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="32" width="31" x="998" y="749" as="geometry" />
+          <mxGeometry height="32" width="31" x="998" y="756" as="geometry" />
         </mxCell>
         <mxCell id="21X4EBatQ-iozyOZhHY6-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="32" width="30" x="1058" y="766.5" as="geometry" />
