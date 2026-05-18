@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ページ-1" id="Ob7L02hD-_lzj9bV8Y6R">
-    <mxGraphModel dx="1459" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,13 +314,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iXJdUUdlBVMLQBPFx7pD-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value=":信号機" vertex="1">
-          <mxGeometry height="220" width="100" x="1040" y="1000" as="geometry" />
+          <mxGeometry height="240" width="100" x="1040" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="iXJdUUdlBVMLQBPFx7pD-5" parent="iXJdUUdlBVMLQBPFx7pD-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="90" width="10" x="45" y="70" as="geometry" />
+          <mxGeometry height="140" width="10" x="45" y="70" as="geometry" />
         </mxCell>
         <mxCell id="iXJdUUdlBVMLQBPFx7pD-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value=":道路" vertex="1">
-          <mxGeometry height="221" width="100" x="1240" y="1000" as="geometry" />
+          <mxGeometry height="240" width="100" x="1240" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="iXJdUUdlBVMLQBPFx7pD-7" parent="iXJdUUdlBVMLQBPFx7pD-6" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="40" width="10" x="45" y="70" as="geometry" />
@@ -332,7 +332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iXJdUUdlBVMLQBPFx7pD-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value=":自動車" vertex="1">
-          <mxGeometry height="220" width="100" x="1370" y="1000" as="geometry" />
+          <mxGeometry height="240" width="100" x="1370" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="iXJdUUdlBVMLQBPFx7pD-10" parent="iXJdUUdlBVMLQBPFx7pD-9" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="40" width="10" x="45" y="140" as="geometry" />
