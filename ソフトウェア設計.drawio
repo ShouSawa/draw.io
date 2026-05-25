@@ -383,7 +383,7 @@
         <mxCell id="BAsj-fxLHqiT10xoM3i_-31" edge="1" parent="1" source="BAsj-fxLHqiT10xoM3i_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BAsj-fxLHqiT10xoM3i_-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BAsj-fxLHqiT10xoM3i_-18" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="引き出す金額を&lt;div&gt;入力させ，記録する&lt;/div&gt;" vertex="1">
+        <mxCell id="BAsj-fxLHqiT10xoM3i_-18" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="引き出す金額を&lt;div&gt;入力を受け付ける&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="140" x="245" y="1250" as="geometry" />
         </mxCell>
         <mxCell id="BAsj-fxLHqiT10xoM3i_-19" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="中央処理システムに指定口座からの引出を通知する" vertex="1">
@@ -517,15 +517,6 @@
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="470" y="1410" as="sourcePoint" />
             <mxPoint x="470" y="1469" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BAsj-fxLHqiT10xoM3i_-73" parent="1" style="html=1;whiteSpace=wrap;" value="中央処理システム" vertex="1">
-          <mxGeometry height="40" width="80" x="420" y="1345" as="geometry" />
-        </mxCell>
-        <mxCell id="BAsj-fxLHqiT10xoM3i_-75" edge="1" parent="1" source="BAsj-fxLHqiT10xoM3i_-19" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BAsj-fxLHqiT10xoM3i_-73" value="">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="390" y="1445" as="sourcePoint" />
-            <mxPoint x="425" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
