@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ページ-1" id="Ob7L02hD-_lzj9bV8Y6R">
-    <mxGraphModel dx="1911" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1525" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -701,6 +701,121 @@
         </mxCell>
         <mxCell id="pH4my8Z7q9tAgw1Duphp-48" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2540" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="390" width="490" x="2310" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;電車の経路検索システム&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="2455" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-38" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="終了する" vertex="1">
+          <mxGeometry height="40" width="120" x="2370" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-39" edge="1" parent="1" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2220" y="126" as="sourcePoint" />
+            <mxPoint x="2268" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-40" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="銀行職員" vertex="1">
+          <mxGeometry height="60" width="30" x="2120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-41" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2230" y="202" as="sourcePoint" />
+            <mxPoint x="2290" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-42" edge="1" parent="1" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2638" y="90" as="sourcePoint" />
+            <mxPoint x="2570" y="146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-43" edge="1" parent="1" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" x="0.6" y="20" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="2730" y="100" as="sourcePoint" />
+            <mxPoint x="2730" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-44" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="乗客" vertex="1">
+          <mxGeometry height="60" width="30" x="2840" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-45" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="管理者" vertex="1">
+          <mxGeometry height="60" width="30" x="2240" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-47" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="経路検索する" vertex="1">
+          <mxGeometry height="40" width="120" x="2650" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-48" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="終電検索する" vertex="1">
+          <mxGeometry height="40" width="120" x="2650" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-49" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="時刻表を閲覧する" vertex="1">
+          <mxGeometry height="40" width="120" x="2650" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-50" edge="1" parent="1" source="t3e4NJCg42qpc5-jjosn-44" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="t3e4NJCg42qpc5-jjosn-47" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2910" y="262" as="sourcePoint" />
+            <mxPoint x="2970" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-52" edge="1" parent="1" source="t3e4NJCg42qpc5-jjosn-48" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="t3e4NJCg42qpc5-jjosn-44" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3040" y="417" as="sourcePoint" />
+            <mxPoint x="2890" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-53" edge="1" parent="1" source="t3e4NJCg42qpc5-jjosn-49" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="t3e4NJCg42qpc5-jjosn-44" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2910" y="525" as="sourcePoint" />
+            <mxPoint x="3060" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-55" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="経路情報を追加する" vertex="1">
+          <mxGeometry height="40" width="120" x="2330" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-56" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="経路情報を書き換える" vertex="1">
+          <mxGeometry height="40" width="140" x="2330" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-57" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="検索する" vertex="1">
+          <mxGeometry height="40" width="120" x="2515" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-60" edge="1" parent="1" source="t3e4NJCg42qpc5-jjosn-47" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="t3e4NJCg42qpc5-jjosn-57" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2640" y="256" as="sourcePoint" />
+            <mxPoint x="2688" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-61" edge="1" parent="1" source="t3e4NJCg42qpc5-jjosn-48" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="t3e4NJCg42qpc5-jjosn-57" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2683" y="370" as="sourcePoint" />
+            <mxPoint x="2650" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-62" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="経路情報を削除する" vertex="1">
+          <mxGeometry height="40" width="140" x="2330" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-63" edge="1" parent="1" source="t3e4NJCg42qpc5-jjosn-45" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="t3e4NJCg42qpc5-jjosn-55" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2220" y="322" as="sourcePoint" />
+            <mxPoint x="2280" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-64" edge="1" parent="1" source="t3e4NJCg42qpc5-jjosn-45" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="t3e4NJCg42qpc5-jjosn-56" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2270" y="440" as="sourcePoint" />
+            <mxPoint x="2370" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-65" edge="1" parent="1" source="t3e4NJCg42qpc5-jjosn-45" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="t3e4NJCg42qpc5-jjosn-62" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2320" y="480" as="sourcePoint" />
+            <mxPoint x="2420" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3e4NJCg42qpc5-jjosn-66" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="出発駅，到着駅を&lt;div&gt;指定する&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="120" x="2450" y="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
