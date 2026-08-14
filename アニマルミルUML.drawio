@@ -1,114 +1,9 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ページ-1">
-    <mxGraphModel dx="2934" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="822" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFF2CC;verticalAlign=top;" value="アニマルミル" vertex="1">
-          <mxGeometry height="530" width="477" x="180.5" y="810" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=#FFF2CC;" value="フィールド" vertex="1">
-          <mxGeometry height="60" width="30" x="93" y="830" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=#FFF2CC;" value="さくらみらいサーバー" vertex="1">
-          <mxGeometry height="60" width="30" x="93" y="971" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=#FFF2CC;" value="Webアプリ" vertex="1">
-          <mxGeometry height="60" width="30" x="90" y="1246" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=#FFF2CC;" value="ユーザー" vertex="1">
-          <mxGeometry height="60" width="30" x="710.5" y="897" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="動物の位置座標を推定" vertex="1">
-          <mxGeometry height="38" width="164" x="222.5" y="908" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="センサデータを送信する" vertex="1">
-          <mxGeometry height="38" width="164" x="230" y="841" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-8" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="776.4999999999995" y="727" as="sourcePoint" />
-            <mxPoint x="127" y="860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="動物の種類を推定" vertex="1">
-          <mxGeometry height="38" width="164" x="222.5" y="964" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="モデル学習" vertex="1">
-          <mxGeometry height="38" width="164" x="225" y="1020" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="センサデータのログを保存" vertex="1">
-          <mxGeometry height="38" width="164" x="230" y="1076" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="推定結果を保存" vertex="1">
-          <mxGeometry height="38" width="164" x="222.5" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="推定行動経路を地図表示" vertex="1">
-          <mxGeometry height="38" width="164" x="222.5" y="1216" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="推定した動物の種類表示" vertex="1">
-          <mxGeometry height="38" width="164" x="222.5" y="1277" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="リアルタイムで行動経路を監視" vertex="1">
-          <mxGeometry height="38" width="187" x="438" y="908" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="過去の行動経路を見る" vertex="1">
-          <mxGeometry height="38" width="187" x="440" y="971" as="geometry" />
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-23" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-3" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-6" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="210" y="1070" as="sourcePoint" />
-            <mxPoint x="260" y="1020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-24" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-3" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-9" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="210" y="1044" as="sourcePoint" />
-            <mxPoint x="309" y="980" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-25" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-3" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-10" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="240" y="1026" as="sourcePoint" />
-            <mxPoint x="339" y="1010" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-26" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-3" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-11" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="230" y="1050" as="sourcePoint" />
-            <mxPoint x="332" y="1083" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-27" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-3" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-12" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="240" y="1110" as="sourcePoint" />
-            <mxPoint x="347" y="1192" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-28" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-4" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-14" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="170" y="1160" as="sourcePoint" />
-            <mxPoint x="269" y="1289" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-29" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-4" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-15" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="130" y="1280" as="sourcePoint" />
-            <mxPoint x="282" y="1270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-30" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-5" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-16" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="650" y="1116" as="sourcePoint" />
-            <mxPoint x="752" y="1080" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-tD8qe8kAH3zIMFJ-KLF-31" edge="1" parent="1" source="-tD8qe8kAH3zIMFJ-KLF-5" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="-tD8qe8kAH3zIMFJ-KLF-17" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="776" y="1000" as="sourcePoint" />
-            <mxPoint x="690" y="1000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1KERhm-J-_-fvdTD-27Z-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="node" vertex="1">
           <mxGeometry height="150" width="180" x="110.5" y="160" as="geometry" />
         </mxCell>
@@ -120,7 +15,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1KERhm-J-_-fvdTD-27Z-4" parent="1KERhm-J-_-fvdTD-27Z-2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="node_number" vertex="1">
+        <mxCell id="1KERhm-J-_-fvdTD-27Z-4" parent="1KERhm-J-_-fvdTD-27Z-2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="node_id" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
